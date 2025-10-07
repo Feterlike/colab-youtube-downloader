@@ -2,7 +2,7 @@
 
 A simple, user-friendly Google Colab notebook to download YouTube videos or audio directly to your Google Drive. No software installation needed!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>/blob/main/YouTube_Downloader.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Feterlike/colab-youtube-downloader/blob/main/YouTube_Downloader.ipynb)
 
 ---
 
